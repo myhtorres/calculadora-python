@@ -35,6 +35,8 @@ Resultado: 10.0 + 5.0 = 15.0
 
 🖥️ Exemplo de execução
 Aqui está um exemplo de uso no terminal:
+![Screenshot da Calculadora](screenshot_calculadora.png)
+
 
 📚 Aprendizados
 Pratiquei funções básicas em Python.
