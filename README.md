@@ -27,7 +27,9 @@ Divisão (/) com tratamento de erro para divisão por zero
 
 
 🖥️ Exemplo de execução
+
 Aqui está um exemplo de uso no terminal:
+
 ![Screenshot da Calculadora](screenshot_calculadora.png)
 
 📚 Aprendizados
