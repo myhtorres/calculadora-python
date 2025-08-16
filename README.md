@@ -33,12 +33,14 @@ Aqui está um exemplo de uso no terminal:
 ![Screenshot da Calculadora](screenshot_calculadora.png)
 
 📚 Aprendizados
+
 Pratiquei funções básicas em Python.
 Uso de condições (if/else).
 Tratamento de erro de divisão por zero.
 Uso de try/except para capturar erros de entrada inválida.
 
 📜 Licença
+
 Este projeto é open-source e pode ser usado livremente para estudos. 😉
 Feito por Myrelle Torres.
 
