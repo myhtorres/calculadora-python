@@ -42,7 +42,9 @@ Uso de try/except para capturar erros de entrada inválida.
 📜 Licença
 
 Este projeto é open-source e pode ser usado livremente para estudos. 😉
+
 Feito por Myrelle Torres.
 
 ⚙️ Tecnologias utilizadas
+
 Python 3.9
