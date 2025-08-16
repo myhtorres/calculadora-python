@@ -16,10 +16,15 @@ python calculadora.py
 
 ```
 ✅ Funcionalidades
+
 Soma (+)
+
 Subtração (-)
+
 Multiplicação (*)
+
 Divisão (/) com tratamento de erro para divisão por zero
+
 
 🖥️ Exemplo de execução
 Aqui está um exemplo de uso no terminal:
